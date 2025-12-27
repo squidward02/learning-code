@@ -83,5 +83,15 @@ public class App {
         else{
             System.out.println("i am not a student and dont ask my name which is" + name + " and my age is " + age);
         }
+
+
+        String name1 = "adam";
+
+        if(isStudent){
+            System.out.println("i am a student and my name is " + name1  + "my age is  " + age);
+        }
+        else{
+            System.out.println("i am not a student and dont ask my name which is " + name1 + " and my age is " + age);
+        }
     }
 }
