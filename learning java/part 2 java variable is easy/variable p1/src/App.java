@@ -92,6 +92,7 @@ public class App {
         }
         else{
             System.out.println("i am not a student and dont ask my name which is " + name1 + " and my age is " + age);
+        
         }
     }
 }
